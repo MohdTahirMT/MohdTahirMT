@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohdTahirMT
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on Web Dev Tips & Tricks
 - 📫 How to reach me Mohdtahir4618@gmail.com
 
